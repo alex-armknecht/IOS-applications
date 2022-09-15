@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985869368748-cqtm5qcgprnqput9bu66vqqff80nmn1e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985869368748-cqtm5qcgprnqput9bu66vqqff80nmn1e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJGOUfYnQPNPTSMJirW2lUoyNzytJ4Nb4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985869368748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.lmu.AlphaMovieBlog</string>
+	<key>PROJECT_ID</key>
+	<string>alpha-movie-blog</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alpha-movie-blog.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985869368748:ios:ca82ca516626abdcce8e09</string>
+</dict>
+</plist>
